@@ -1,0 +1,7 @@
+{
+  "id": "paseo-agent-todos",
+  "description": "Todo list that launches a coding agent per task in the project you choose, tracks nested subtasks, and marks work done when the agent delivers. Optional Google Tasks sync.",
+  "requirements": {
+    "paseo": ">=0.10.2"
+  }
+}
